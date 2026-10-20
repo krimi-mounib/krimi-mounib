@@ -7,10 +7,11 @@ I build web apps and work with networks and systems, and I'm moving toward **cyb
 - **Web:** PHP, Symfony, JavaScript, WordPress (custom plugins)
 - **Desktop & mobile:** JavaFX, Qt, Flutter/Firebase
 - **Systems & networking:** C on Linux, network backbone setup, Cisco CCNA 1
-- **Hardware:** Arduino (smart garden, fire/smoke detection)
+- **Hardware:** Arduino , Raspberry Pi and microcontrollers
 
 ## Projects
 - **TalentFlow**: recruitment management platform (team project, JavaFX + Symfony)
+- **ATACJL**: NGO web site made as a personale Project and a gift to my local NGO
 - *More coming soon*
 
 ## Contact
